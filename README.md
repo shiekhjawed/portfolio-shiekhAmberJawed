@@ -1,6 +1,8 @@
 
-<h1 align="center">👋 Hi, I'm Sheikh Amber Jawed</h1>
-<h3 align="center">💻 Frontend / Web Developer | Full Stack MERN Student</h3>
+# 👋 Hi, I'm Sheikh Amber Jawed
+
+💻 **Frontend / Web Developer** | 🌱 **Full Stack MERN Student**  
+🚀 Passionate about building responsive, user-friendly web applications step by step.
 
 
 ---
@@ -32,9 +34,12 @@
 - 🎨 CSS & Bootstrap Projects  
 
 ---
-###ATS Resume
-https://app.enhancv.com/share/df9d2e03/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
-https://app.enhancv.com/share/32bcb816/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+
+## 📄 Resume (ATS Friendly)
+
+- 📌 Resume 1:  https://app.enhancv.com/share/df9d2e03/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+- 📌 Resume 2: https://app.enhancv.com/share/32bcb816/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
+
 
 ### 📫 Contact Me
 - GitHub: [shiekhjawed](https://github.com/shiekhjawed)
