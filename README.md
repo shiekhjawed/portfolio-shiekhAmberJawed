@@ -5,6 +5,7 @@
 🚀 Passionate about building responsive, user-friendly web applications step by step.
 
 
+
 ---
 
 ### 👨‍💻 About Me
@@ -24,9 +25,20 @@
 🧩 Other Tools:
 - MS Word  
 - MS Excel  
-- MS PowerPoint  
+- MS PowerPoint
+
+- 
+ This is my *personal portfolio website, created using **HTML and CSS*, to showcase my skills, projects, and contact information.
+
+I am learning web development step by step and building real projects to improve my practical skills.
+
 
 ---
+## 🌐 Live Demo
+
+👉 *View Live Website:*  
+https://shiekhjawed.github.io/portfolio-shiekhAmberJawed/
+
 
 ### 📌 Projects
 - 🌐 Portfolio Website  
