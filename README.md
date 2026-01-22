@@ -51,7 +51,7 @@ https://shiekhjawed.github.io/portfolio-shiekhAmberJawed/
 
 - 📌 Resume  : https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
 ## 📄 Resume (AI PRO RESUMe)
-https://app.aiproresume.com/share/g4qqepv9
+- 📌 Resume  :https://app.aiproresume.com/share/g4qqepv9
 
 ### 📫 Contact Me
 - GitHub: [shiekhjawed](https://github.com/shiekhjawed)
