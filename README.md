@@ -50,8 +50,7 @@ https://shiekhjawed.github.io/portfolio-shiekhAmberJawed/
 ## 📄 Resume (ATS Friendly)
 
 - 📌 Resume  : https://app.enhancv.com/share/36c5925d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic
-## 📄 Resume (AI PRO RESUMe)
-- 📌 Resume  :file:///C:/Users/hp/Downloads/Shiekh%20Amber%20Jawed%20(2).pdf
+
 
 ### 📫 Contact Me
 - GitHub: [shiekhjawed](https://github.com/shiekhjawed)
