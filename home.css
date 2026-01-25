@@ -1,1 +1,260 @@
+ *{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+ }
+ body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: conic-gradient(from 0deg, grey,black, gray);
+    color:grey;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+ header{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding:20px;
+    background: conic-gradient(from 0deg, grey,black, gray);
+}
+ .logo{
+    font-size:2.5rem;
+    font-style: italic;
+    color:seagreen;
+    text-transform:uppercase;
+    word-spacing:5px;
+    font-family:'Rubik Moonrocks', cursive;
+}
+ nav ul{
+    display:flex;
+    gap:30px;
+    list-style:none;
+    margin: 0;
+    padding:0;
+}
+ nav li{
+   margin-left:20px;
+      
+}
+ nav li:hover{
+    background-color: blue;
+    cursor:all-scroll;
+}
+ nav a {
+
+    text-decoration: none;
+    text-transform: capitalize;
+    font-style: italic;
+    color:white;
+    font-size:1.25rem;
+}
+ .container{
+    height: auto;
+    min-height:80vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background: conic-gradient(from 0deg, grey,black, gray);
+    padding: 40px 20px;
+    margin: 20px;
+}
+ .content{
+    width:50%;
+    padding-right: 20px;
+    margin-bottom: 10px;
+}
+ .content h3{
+font-family: 'Dancing script';
+
+    font-size:1.8rem;
+    color:white;
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+
+    margin-bottom: 10px;
+}
+ .content h3 span{
+    color:seagreen;
+    font-size:6.25rem;
+}
+ .content h1{
+    font-family: 'Rubik Moonrocks', cursive;
+
+    color:white;
+    font-size:2.5rem;
+    font-style: italic;
+    text-align: center;
+
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+ .content h1 span{
+    color:seagreen;
+
+}
+
+ .btn{
+    display: flex;
+    justify-content:center;
+    padding-top: 20px;
+    margin-bottom:20px;
+    box-shadow:inset 0 0 
+}
+ #hire-btn {
+    width:25%;
+    text-transform: capitalize;
+    background: seagreen;
+    color: white;
+    font-weight:bold;
+    border-radius:10px;
+    padding:15px;
+    font-size: 15px;
+    border:none;
+    font-family: 'Dancing Script', cursive;
+      /* INSET BOX SHADOW */
+    box-shadow: inset 4px 4px 10px rgba(0,0,0,0.4),
+}
+ .social-icons {
+    display: flex;
+    justify-content: center;
+    gap:30px;     
+    font-size:3.75rem;
+    margin-top:40px;
+}
+ .container-img img{
+    width:100%;
+    max-width:400px;
+    height:auto;
+    border:5px solid seagreen;
+    border-radius:20%;
+    filter: blur(20%);
+    
+
+
+     box-shadow: 0 15px 30px rgba(0,0,0,0.6),
+                0 0 20px seagreen;
+
+
+}
+.container-img img:hover {
+    box-shadow: 0 20px 40px rgba(0,0,0,0.8),
+                0 0 30px seagreen;
+    transform: scale(1.05);
+    transition: 0.4s ease;
+}
+
+
+
+footer {
+    background: conic-gradient(from 0deg, grey,black, gray);
+    color:white;
+    text-align: center;
+    padding:20px;
+    font-size:1.125rem;
+    text-transform:capitalize;
+    margin-bottom: 0;
+} 
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+    .logo {
+        font-size: 2rem;
+    }
+    nav a {
+        font-size: 1rem;
+    }
+    .content h1 {
+        font-size: 2rem;
+    }
+    .content h3 span {
+        font-size: 5rem;
+    }
+    .social-icons {
+        font-size: 3rem;
+        gap: 20px;
+    }
+    .container-img img {
+        max-width: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+    nav ul {
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+    }
+    nav li {
+        margin-left: 0;
+    }
+    .container {
+        flex-direction: column;
+        text-align: center;
+        padding: 20px 10px;
+        margin: 10px;
+    }
+    .content {
+        width: 100%;
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+    .content h1 {
+        font-size: 1.75rem;
+    }
+    .content h3 {
+        font-size: 1rem;
+    }
+    .content h3 span {
+        font-size: 4rem;
+    }
+    #hire-btn {
+        width: 50%;
+    }
+    .social-icons {
+        font-size: 2.5rem;
+        gap: 15px;
+    }
+    .container-img img {
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo {
+        font-size: 1.5rem;
+    }
+    nav ul {
+        gap: 10px;
+    }
+    nav a {
+        font-size: 0.875rem;
+    }
+    .content h1 {
+        font-size: 1.5rem;
+    }
+    .content h3 span {
+        font-size: 3rem;
+    }
+    .social-icons {
+        font-size: 2rem;
+        gap: 10px;
+    }
+    .container-img img {
+        max-width: 250px;
+        border-width: 3px;
+    }
+    footer {
+        font-size: 1rem;
+        padding: 15px;
+    }
+}
 
